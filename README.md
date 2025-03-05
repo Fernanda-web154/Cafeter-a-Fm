@@ -1,2 +1,2 @@
-# Cafeter-a-Fm
+# Cafeteria-Fm
 Programa administrador de tienda [python,SQL]
